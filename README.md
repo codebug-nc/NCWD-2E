@@ -1,7 +1,4 @@
-# NashWD-1E
-Adding CSS to your Dream Vacation Site
-
-## Style it up!
+# Style Up your Dream Vacation Website!
 
 #### Now let's make your webpage a little fancy
 > Below are some suggestions. If you want to come up with more styles on your own, feel free!
@@ -46,8 +43,8 @@ Adding CSS to your Dream Vacation Site
 1. Now take some time to style your `application.html` however you'd like. Here's a list of CSS properties to help you out: 
 * `background-image`
 * `background-color`
-* `padding` (hint! this could look like: `padding-top`, `padding-left`, `padding-right`, `padding-bottom`)
-* `margin`
+* `padding` (note! this could look like: `padding-top`, `padding-left`, `padding-right`, `padding-bottom`)
+* `margin` (note! this could look like: `margin-top`, `margin-left`, `margin-right`, `margin-bottom`)
 * `width`
 * `border`
 * `display`
